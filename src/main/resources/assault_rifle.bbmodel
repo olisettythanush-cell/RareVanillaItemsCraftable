@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "format_version": "4.9",
+    "model_format": "java_block",
+    "box_uv": false
+  },
+  "name": "assault_rifle",
+  "resolution": {
+    "width": 512,
+    "height": 512
+  },
+  "elements": [
+    {
+      "name": "body",
+      "from": [
+        4,
+        6,
+        6
+      ],
+      "to": [
+        12,
+        10,
+        10
+      ],
+      "uuid": "body"
+    },
+    {
+      "name": "barrel",
+      "from": [
+        12,
+        7,
+        7
+      ],
+      "to": [
+        16,
+        9,
+        9
+      ],
+      "uuid": "barrel"
+    },
+    {
+      "name": "stock",
+      "from": [
+        1,
+        7,
+        7
+      ],
+      "to": [
+        4,
+        9,
+        9
+      ],
+      "uuid": "stock"
+    },
+    {
+      "name": "grip",
+      "from": [
+        7,
+        2,
+        7
+      ],
+      "to": [
+        9,
+        6,
+        9
+      ],
+      "uuid": "grip"
+    },
+    {
+      "name": "magazine",
+      "from": [
+        8,
+        3,
+        6
+      ],
+      "to": [
+        10,
+        6,
+        10
+      ],
+      "uuid": "magazine"
+    }
+  ],
+  "outliner": [
+    "body",
+    "barrel",
+    "stock",
+    "grip",
+    "magazine"
+  ]
+}
